@@ -14,7 +14,7 @@ body {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bolder;
     font-size: 40px;
-/*     text-decoration: underline 4px; */
+    /* text-decoration: underline 4px; */
     color: aliceblue;
     width: 280px;
     padding: 5px;
@@ -82,13 +82,14 @@ strong {
 
 @media screen and (max-width: 930px) {
     body {
-        margin: -8%;
+        margin: -11%;
     }
     
     .img_capa {
         height: 370px;
         position: sticky;
         top: 0;
+        margin-bottom: 90px;
     }
 
     .titulo_serie, .titulo_temporada {
