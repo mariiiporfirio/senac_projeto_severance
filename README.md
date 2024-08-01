@@ -1,4 +1,4 @@
-# senac_projeto_serie
+# senac_projeto_severance
 
 Trabalho Senac - Curso de Desenvolvedor FullStack
 
