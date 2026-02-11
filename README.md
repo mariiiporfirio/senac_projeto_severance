@@ -1,5 +1,5 @@
-<h1 align="center">🎬 senac_projeto_severance</h1>
-<h3 align="center">Trabalho – Curso Desenvolvedor FullStack | SENAC</h3>
+<h1>🎬 senac_projeto_severance</h1>
+<h3>Trabalho – Curso Desenvolvedor FullStack | SENAC</h3>
 
 <hr>
 
