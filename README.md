@@ -1,16 +1,40 @@
-# senac_projeto_severance
+<h1 align="center">🎬 senac_projeto_severance</h1>
+<h3 align="center">Trabalho – Curso Desenvolvedor FullStack | SENAC</h3>
 
-Trabalho Senac - Curso de Desenvolvedor FullStack
+<hr>
 
-Apresentação de página web da serie Severance.
+<p>
+Projeto individual de desenvolvimento de uma página web sobre a série 
+<strong>Severance</strong>, aplicando conceitos de HTML e CSS.
+</p>
 
-Instruções:
-Dados das aulas anteriores de HTML e CSS:
+<hr>
 
-Faça um layout em baixa fidelidade no canva ou power point da tela, salve como PNG. E hospede como uma imagem no diretório do seu github, separada do projeto. 
+<h2>📌 Objetivo do Projeto</h2>
+<p>
+Desenvolver uma página web responsiva apresentando um filme ou série favorita,
+utilizando os conhecimentos adquiridos nas aulas anteriores.
+</p>
 
-Crie uma tela index.html que mostre o seu filme ou seriado favorito, vocês pode utilizar diversos elementos para criar um layout criativos dessa tela, acrescente um vídeo com o trailer curto do filme ou seriado. Ele deve ser responsivo/flexível.
+<hr>
 
-Ao finalizar você vai subir o arquivo no github e entregar o link do mesmo, lembre-se que essa atividade é individual. 
+<h2>🛠️ Requisitos da Atividade</h2>
+<ul>
+  <li>Criar um layout de baixa fidelidade (Canva ou PowerPoint)</li>
+  <li>Exportar o layout em PNG</li>
+  <li>Hospedar a imagem no repositório do GitHub (separada do projeto principal)</li>
+  <li>Desenvolver um arquivo <strong>index.html</strong></li>
+  <li>Utilizar HTML e CSS</li>
+  <li>Criar um layout responsivo e flexível</li>
+  <li>Inserir um trailer curto da série</li>
+</ul>
 
-E você vai apresentar via Teams em um limite de no máximo 10 minutos o seu Projeto. As apresentações iniciarão na quinta-feira (01/08/24).
+<hr>
+
+<h2>🚀 Entrega</h2>
+<ul>
+  <li>Subir o projeto no GitHub</li>
+  <li>Enviar o link do repositório</li>
+  <li>Apresentação individual via Teams</li>
+  <li>Tempo máximo: 10 minutos</li>
+</ul>
